@@ -5,11 +5,11 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_
 client.once('ready', () => {
     console.log('Ready!');
     
-    const channelId = '1203631863315308564'; // ID of the channel you want to send the message to
+    const channelId = 'Channel_ID'; 
 
     const messageContent = {
-        "content": "<@&1190820020721287199>",
-        "embeds": [
+        "content": "", // message that the bot sends before the embed        
+        "embeds": [  // example embed
             {
                 "color": 7477715,
                 "fields": [
