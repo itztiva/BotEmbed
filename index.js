@@ -5,7 +5,7 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_
 client.once('ready', () => {
     console.log('Ready!');
     
-    const channelId = 'Channel_ID'; 
+    const channelId = 'Channel_ID'; // channel to send embed
 
     const messageContent = {
         "content": " ", // message that the bot sends before the embed        
@@ -57,4 +57,4 @@ client.once('ready', () => {
 });
 
 
-client.login('Bot_Token');
+client.login('Bot_Token'); // make this your bot token
