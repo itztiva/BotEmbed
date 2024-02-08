@@ -5,8 +5,8 @@ To use this open the install_Packages.bat
 
 - Make the embed whatever you want. 
 
--If you dont know how to create one i recomenned using https://discohook.org/ 
--and after that scroll to the bottom of the page and press json data editor to copy your embed data. 
+- If you dont know how to create one i recommend using https://discohook.org/ 
+- and after that scroll to the bottom of the page and press json data editor to copy your embed data. 
 
 - After that replace
 
