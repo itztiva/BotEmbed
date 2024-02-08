@@ -1,5 +1,5 @@
 # Bot Embed 
-*To use this open the install_Packages.bat
+To use this open the install_Packages.bat
 
 - Set const channelId = 'Channel_id'; to your channel id 
 
